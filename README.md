@@ -68,7 +68,7 @@ python discordbot_test.py
 
 ## File Structure
 
-- `discordbot_test.py`: Main bot code
+- `Musicbot.py`: Main bot code
 - `ytapi.py`: YouTube API helper functions
 - `Dockerfile`: Dockerfile for containerizing the bot
 - `requirements.txt`: Python dependencies
