@@ -1,0 +1,10 @@
+discord.py
+yt_dlp
+asyncio
+PyNaCl
+pydub
+ffmpeg
+ytmusicapi
+google-auth-oauthlib
+google-api-python-client
+pytube
