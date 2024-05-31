@@ -1,5 +1,6 @@
 
 # Discord Music Bot
+![image](https://github.com/kamiladas/Discord-Music-Bot/assets/58427794/c00eea1a-d40f-497a-b04b-1433955f1cca)
 
 This is a Discord Music Bot that plays music from YouTube. It allows users to queue, skip, and stop music, and includes interactive controls for ease of use.
 
