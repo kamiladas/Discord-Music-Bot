@@ -53,7 +53,7 @@ pip install -r requirements.txt
 1. Run the bot:
 
 ```sh
-python discordbot_test.py
+python Musicdbot.py
 ```
 
 2. Invite the bot to your server using the OAuth2 URL generated in the Developer Portal
